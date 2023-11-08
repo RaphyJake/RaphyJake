@@ -1,6 +1,6 @@
 Hi, I'm raphyjake.
 
-There's nothing to see here. All my cool stuff is at https://gitlab.com/RaphyJake.
+There's nothing to see here. All my cool stuff is at https://git.dekedin.me
 
 I can be contacted via [telegram](https://t.me/RaphyJake).
 
